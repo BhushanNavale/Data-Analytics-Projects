@@ -240,4 +240,5 @@ Through this project, I practiced:
 ## 👨‍💻 Author
 
 **Bhushan Navale**
+
 **Aspiring Data Analyst**
