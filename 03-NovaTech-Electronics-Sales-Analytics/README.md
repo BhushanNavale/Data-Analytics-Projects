@@ -120,7 +120,9 @@ The analysis covers:
 
 An interactive Excel dashboard was developed to provide a consolidated view of sales performance.
 
-![NovaTech Electronics Sales Dashboard](dashboard.png)
+## 📊 Dashboard
+
+<img src="./dashboard.png" alt="NovaTech Electronics Sales Dashboard">
 
 ### KPI Cards
 
