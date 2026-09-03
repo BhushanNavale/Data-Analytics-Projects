@@ -203,7 +203,6 @@ Advanced SQL queries were implemented using:
 ## 🗂️ Database Schema
 <img width="1288" height="678" alt="schema png" src="https://github.com/user-attachments/assets/d3dd6e89-db35-49e0-af32-e3afa5120298" />
 
-
 ---
 
 ## ▶️ How to Run
