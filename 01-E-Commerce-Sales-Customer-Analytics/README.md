@@ -225,6 +225,7 @@ The final dashboard contains **3 pages**.
 > **How is the business performing overall, and what are the major revenue and profitability trends?**
 
 This page provides a high-level view of business performance.
+<img width="1367" height="788" alt="Screenshot 2026-09-04 042712" src="https://github.com/user-attachments/assets/b2871d10-a307-4d6d-bfb0-058bd2563e8d" />
 
 ### KPI Cards
 
@@ -263,6 +264,7 @@ This page answers:
 ### Business Question
 
 > **What products and categories are driving revenue and profit, and which products need improvement?**
+<img width="1370" height="783" alt="Screenshot 2026-09-04 042737" src="https://github.com/user-attachments/assets/e2176b26-29a4-4d05-9a87-cff773c486ca" />
 
 ### Visuals
 
@@ -299,6 +301,7 @@ The **Revenue vs Rating** analysis is especially useful because it helps identif
 ### Business Question
 
 > **Who are our most valuable customers, how do they behave, and where are the opportunities to improve customer retention?**
+<img width="1366" height="782" alt="Screenshot 2026-09-04 042811" src="https://github.com/user-attachments/assets/b58a1f6f-f351-407d-b9ba-ff05870274dd" />
 
 ### KPI Cards
 
