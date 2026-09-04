@@ -46,17 +46,8 @@ The dataset contains **7 interconnected tables**.
 
 ## 🔗 Data Model
 
-```text
-categories
-     │
-     └──< products
-             │
-             └──< order_items >── orders >── customers
-                                      │
-                                      └── payments
+<img width="612" height="751" alt="Screenshot 2026-09-04 042206" src="https://github.com/user-attachments/assets/89cba049-a950-4f2a-b57c-ba5625b90317" />
 
-products ───< reviews >── customers
-```
 
 The tables were connected in Power BI to support analysis across customers, products, categories, orders, payments, and reviews.
 
