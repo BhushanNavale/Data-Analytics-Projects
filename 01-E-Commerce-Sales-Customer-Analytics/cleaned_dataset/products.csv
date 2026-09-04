@@ -1,0 +1,201 @@
+product_id,product_name,category_id,brand,price,cost
+P0001,Apple Iphone 15,CAT01,Apple,71812.96,50922.07
+P0002,Samsung Galaxy S24,CAT01,Samsung,63130.56,46889.09
+P0003,Sony Wh-1000Xm5,CAT01,Sony,31203.72,20934.68
+P0004,Boat Airdopes 141,CAT01,Boat,1594.68,807.87
+P0005,Logitech Mx Master 3S,CAT01,Logitech,8934.63,5755.81
+P0006,Hp Pavilion 15,CAT01,Hp,65460.48,53534.38
+P0007,Lenovo Ideapad Slim 3,CAT01,Lenovo,49491.62,
+P0008,Dell Inspiron 14,CAT01,Dell,60611.2,
+P0009,Oneplus Nord Ce 4,CAT01,Oneplus,24075.69,19001.38
+P0010,Jbl Flip 6,CAT01,Jbl,12615.92,7149.93
+P0011,Levi'S Men'S 511 Jeans,CAT02,Levi'S,3151.57,1740.42
+P0012,Allen Solly Men'S Shirt,CAT02,Allen Solly,1961.09,1006.59
+P0013,Biba Women'S Kurta,CAT02,Biba,2682.88,
+P0014,W For Women Palazzo,CAT02,W,1792.49,932.57
+P0015,H&M Cotton T-Shirt,CAT02,H&M,1373.2,658.09
+P0016,Roadster Casual Jacket,CAT02,Roadster,2941.94,1541.35
+P0017,Puma Running Shoes,CAT03,Puma,5051.16,3064.64
+P0018,Nike Air Max,CAT03,Nike,8876.09,5634.97
+P0019,Adidas Ultraboost,CAT03,Adidas,13706.28,8316.62
+P0020,Skechers Go Walk,CAT03,Skechers,7413.73,4339.91
+P0021,Prestige Electric Kettle,CAT04,Prestige,1966.77,992.77
+P0022,Philips Air Fryer,CAT04,Philips,8676.7,
+P0023,Borosil Glass Lunch Box,CAT04,Borosil,1223.62,677.55
+P0024,Milton Thermosteel Flask,CAT04,Milton,1416.78,778.69
+P0025,Wakefit Memory Foam Pillow,CAT04,Wakefit,1024.33,511.57
+P0026,Lakme Face Wash,CAT05,Lakme,393.23,202.68
+P0027,Maybelline Fit Me Foundation,CAT05,Maybelline,678.06,378.86
+P0028,Mamaearth Face Serum,CAT05,Mamaearth,615.3,314.06
+P0029,The Derma Co Sunscreen,CAT05,The Derma Co,476.88,267.15
+P0030,Nivea Body Lotion,CAT05,Nivea,333.12,177.4
+P0031,Decathlon Yoga Mat,CAT06,Decathlon,1400.88,711.76
+P0032,Yonex Badminton Racket,CAT06,Yonex,2532.84,1482.12
+P0033,Cosco Football,CAT06,Cosco,1055.37,
+P0034,Strauss Gym Gloves,CAT06,Strauss,577.65,283.16
+P0035,Milton Sports Bottle,CAT06,Milton,683.15,
+P0036,Tata Salt 1Kg,CAT07,Tata,26.93,18.96
+P0037,Aashirvaad Atta 5Kg,CAT07,Aashirvaad,317.38,205.33
+P0038,Fortune Sunflower Oil 1L,CAT07,Fortune,149.11,103.68
+P0039,Tata Tea Gold 1Kg,CAT07,Tata,613.63,417.93
+P0040,Kellogg'S Corn Flakes 500G,CAT07,Kellogg'S,241.46,159.98
+P0041,Atomic Habits,CAT08,Penguin,607.51,349.75
+P0042,Ikigai,CAT08,Penguin,406.06,251.46
+P0043,The Psychology Of Money,CAT08,Jaico,493.97,
+P0044,Rich Dad Poor Dad,CAT08,Plata,430.77,235.27
+P0045,Deep Work,CAT08,Hachette,470.87,278.97
+P0046,Portronics Power Bank 10000Mah,CAT09,Portronics,1134.79,710.71
+P0047,Anker Usb-C Cable,CAT09,Anker,942.88,
+P0048,Spigen Iphone Case,CAT09,Spigen,1408.35,887.21
+P0049,Sandisk 128Gb Memory Card,CAT09,Sandisk,1186.28,652.27
+P0050,Tp-Link Wifi Router,CAT09,Tp-Link,2688.08,1669.27
+P0051,American Tourister Backpack,CAT10,American Tourister,2328.37,1488.41
+P0052,Skybags Trolley Bag,CAT10,Skybags,4127.99,2410.65
+P0053,Wildcraft Travel Backpack,CAT10,Wildcraft,2909.1,1779.6
+P0054,Fastrack Analog Watch,CAT10,Fastrack,2365.89,1438.65
+P0055,Safari Cabin Trolley,CAT10,Safari,3492.21,
+P0056,Apple Iphone 15 - Black,CAT01,Apple,74295.39,52466.76
+P0057,Samsung Galaxy S24 - Blue,CAT01,Samsung,65329.71,
+P0058,Sony Wh-1000Xm5 - White,CAT01,Sony,31996.16,21411.48
+P0059,Boat Airdopes 141 - Grey,CAT01,Boat,1461.18,864.17
+P0060,Logitech Mx Master 3S - Red,CAT01,Logitech,9187,5845.88
+P0061,Hp Pavilion 15 - Green,CAT01,Hp,71007.17,53752.81
+P0062,Lenovo Ideapad Slim 3 - Silver,CAT01,Lenovo,55469.61,41149.34
+P0063,Dell Inspiron 14 - Navy,CAT01,Dell,54865.76,44539.89
+P0064,Oneplus Nord Ce 4 - Black,CAT01,Oneplus,23322.1,19768.05
+P0065,Jbl Flip 6 - Blue,CAT01,Jbl,12740.64,7902.48
+P0066,Levi'S Men'S 511 Jeans - White,CAT02,Levi'S,2927.41,1609.82
+P0067,Allen Solly Men'S Shirt - Grey,CAT02,Allen Solly,2122.34,
+P0068,Biba Women'S Kurta - Red,CAT02,Biba,2356.18,1297.81
+P0069,W For Women Palazzo - Green,CAT02,W,1785.79,1010.65
+P0070,H&M Cotton T-Shirt - Silver,CAT02,H&M,1357.29,
+P0071,Roadster Casual Jacket - Navy,CAT02,Roadster,2802.62,1508.96
+P0072,Puma Running Shoes - Black,CAT03,Puma,4847.82,3029.61
+P0073,Nike Air Max - Blue,CAT03,Nike,8936.27,5406.33
+P0074,Adidas Ultraboost - White,CAT03,Adidas,13140.62,8426.25
+P0075,Skechers Go Walk - Grey,CAT03,Skechers,6720.25,4202.85
+P0076,Prestige Electric Kettle - Red,CAT04,Prestige,2049.54,1068.88
+P0077,Philips Air Fryer - Green,CAT04,Philips,8960.44,5812.23
+P0078,Borosil Glass Lunch Box - Silver,CAT04,Borosil,1231.65,676.87
+P0079,Milton Thermosteel Flask - Navy,CAT04,Milton,1470.09,808.48
+P0080,Wakefit Memory Foam Pillow - Black,CAT04,Wakefit,963.55,502.54
+P0081,Lakme Face Wash - Blue,CAT05,Lakme,375.32,213.3
+P0082,Maybelline Fit Me Foundation - White,CAT05,Maybelline,674.07,377.51
+P0083,Mamaearth Face Serum - Grey,CAT05,Mamaearth,634.31,294.04
+P0084,The Derma Co Sunscreen - Red,CAT05,The Derma Co,481.88,
+P0085,Nivea Body Lotion - Green,CAT05,Nivea,335.79,172.06
+P0086,Decathlon Yoga Mat - Silver,CAT06,Decathlon,1390.35,705.97
+P0087,Yonex Badminton Racket - Navy,CAT06,Yonex,2501.25,
+P0088,Cosco Football - Black,CAT06,Cosco,1050.07,500.68
+P0089,Strauss Gym Gloves - Blue,CAT06,Strauss,565.78,297.52
+P0090,Milton Sports Bottle - White,CAT06,Milton,694.48,358.58
+P0091,Tata Salt 1Kg - Grey,CAT07,Tata,29.1,18.37
+P0092,Aashirvaad Atta 5Kg - Red,CAT07,Aashirvaad,322.21,199.88
+P0093,Fortune Sunflower Oil 1L - Green,CAT07,Fortune,143.61,102.98
+P0094,Tata Tea Gold 1Kg - Silver,CAT07,Tata,609.07,407.33
+P0095,Kellogg'S Corn Flakes 500G - Navy,CAT07,Kellogg'S,238.67,163.98
+P0096,Atomic Habits - Black,CAT08,Penguin,594.98,350.43
+P0097,Ikigai - Blue,CAT08,Penguin,386.02,252.19
+P0098,The Psychology Of Money - White,CAT08,Jaico,497.24,
+P0099,Rich Dad Poor Dad - Grey,CAT08,Plata,404.01,222.33
+P0100,Deep Work - Red,CAT08,Hachette,538.87,
+P0101,Portronics Power Bank 10000Mah - Green,CAT09,Portronics,1289.34,
+P0102,Anker Usb-C Cable - Silver,CAT09,Anker,950.52,479.98
+P0103,Spigen Iphone Case - Navy,CAT09,Spigen,1503.27,869.08
+P0104,Sandisk 128Gb Memory Card - Black,CAT09,Sandisk,1088.18,
+P0105,Tp-Link Wifi Router - Blue,CAT09,Tp-Link,2466.13,1693.18
+P0106,American Tourister Backpack - White,CAT10,American Tourister,2423.48,1499.43
+P0107,Skybags Trolley Bag - Grey,CAT10,Skybags,3992.01,2377.83
+P0108,Wildcraft Travel Backpack - Red,CAT10,Wildcraft,3219.72,1854.04
+P0109,Fastrack Analog Watch - Green,CAT10,Fastrack,2532.4,1488
+P0110,Safari Cabin Trolley - Silver,CAT10,Safari,3335.32,
+P0111,Apple Iphone 15 - Classic,CAT01,Apple,75270.37,54513.09
+P0112,Samsung Galaxy S24 - 128Gb,CAT01,Samsung,65735.39,
+P0113,Sony Wh-1000Xm5 - 256Gb,CAT01,Sony,28147.86,20707.08
+P0114,Boat Airdopes 141 - Large,CAT01,Boat,1507.14,885.98
+P0115,Logitech Mx Master 3S - Medium,CAT01,Logitech,8577.77,6437.29
+P0116,Hp Pavilion 15 - Small,CAT01,Hp,64047.72,51483
+P0117,Lenovo Ideapad Slim 3 - Pro,CAT01,Lenovo,54010.34,
+P0118,Dell Inspiron 14 - Plus,CAT01,Dell,56941.9,43424.58
+P0119,Oneplus Nord Ce 4 - Classic,CAT01,Oneplus,26587.51,
+P0120,Jbl Flip 6 - 128Gb,CAT01,Jbl,12229.12,
+P0121,Levi'S Men'S 511 Jeans - 256Gb,CAT02,Levi'S,2977.66,1717.07
+P0122,Allen Solly Men'S Shirt - Large,CAT02,Allen Solly,2015.83,1104.77
+P0123,Biba Women'S Kurta - Medium,CAT02,Biba,2400.64,1333.73
+P0124,W For Women Palazzo - Small,CAT02,W,1834.06,967.74
+P0125,H&M Cotton T-Shirt - Pro,CAT02,H&M,1338.95,
+P0126,Roadster Casual Jacket - Plus,CAT02,Roadster,2735.82,1545.34
+P0127,Puma Running Shoes - Classic,CAT03,Puma,4703.47,2885.48
+P0128,Nike Air Max - 128Gb,CAT03,Nike,9712.51,5933.38
+P0129,Adidas Ultraboost - 256Gb,CAT03,Adidas,12231.92,7917.74
+P0130,Skechers Go Walk - Large,CAT03,Skechers,6787.49,4523.56
+P0131,Prestige Electric Kettle - Medium,CAT04,Prestige,2016.98,1097.79
+P0132,Philips Air Fryer - Small,CAT04,Philips,8867.88,5561.79
+P0133,Borosil Glass Lunch Box - Pro,CAT04,Borosil,1370.53,717.1
+P0134,Milton Thermosteel Flask - Plus,CAT04,Milton,1531.61,846.77
+P0135,Wakefit Memory Foam Pillow - Classic,CAT04,Wakefit,1027.07,489.29
+P0136,Lakme Face Wash - 128Gb,CAT05,Lakme,419.97,204.94
+P0137,Maybelline Fit Me Foundation - 256Gb,CAT05,Maybelline,719.63,
+P0138,Mamaearth Face Serum - Large,CAT05,Mamaearth,569.14,295.69
+P0139,The Derma Co Sunscreen - Medium,CAT05,The Derma Co,472.08,261.66
+P0140,Nivea Body Lotion - Small,CAT05,Nivea,338.83,182.26
+P0141,Decathlon Yoga Mat - Pro,CAT06,Decathlon,1347.9,675.1
+P0142,Yonex Badminton Racket - Plus,CAT06,Yonex,2561.81,1408.93
+P0143,Cosco Football - Classic,CAT06,Cosco,1002.28,545.29
+P0144,Strauss Gym Gloves - 128Gb,CAT06,Strauss,633.09,285.32
+P0145,Milton Sports Bottle - 256Gb,CAT06,Milton,694.48,
+P0146,Tata Salt 1Kg - Large,CAT07,Tata,26.05,18.59
+P0147,Aashirvaad Atta 5Kg - Medium,CAT07,Aashirvaad,306.64,204
+P0148,Fortune Sunflower Oil 1L - Small,CAT07,Fortune,150.97,105.65
+P0149,Tata Tea Gold 1Kg - Pro,CAT07,Tata,571.64,395.29
+P0150,Kellogg'S Corn Flakes 500G - Plus,CAT07,Kellogg'S,234.38,172.59
+P0151,Atomic Habits - Classic,CAT08,Penguin,638.29,361.97
+P0152,Ikigai - 128Gb,CAT08,Penguin,421.02,
+P0153,The Psychology Of Money - 256Gb,CAT08,Jaico,475.15,286.59
+P0154,Rich Dad Poor Dad - Large,CAT08,Plata,389.52,246.25
+P0155,Deep Work - Medium,CAT08,Hachette,523.66,307.77
+P0156,Portronics Power Bank 10000Mah - Small,CAT09,Portronics,1276.74,675.65
+P0157,Anker Usb-C Cable - Pro,CAT09,Anker,869.72,476.17
+P0158,Spigen Iphone Case - Plus,CAT09,Spigen,1569.48,941.49
+P0159,Sandisk 128Gb Memory Card - Classic,CAT09,Sandisk,1089.06,659.41
+P0160,Tp-Link Wifi Router - 128Gb,CAT09,Tp-Link,2382,
+P0161,American Tourister Backpack - 256Gb,CAT10,American Tourister,2648.17,1532.86
+P0162,Skybags Trolley Bag - Large,CAT10,Skybags,4205.41,2509.85
+P0163,Wildcraft Travel Backpack - Medium,CAT10,Wildcraft,2800.22,1799.68
+P0164,Fastrack Analog Watch - Small,CAT10,Fastrack,2448.59,1524.96
+P0165,Safari Cabin Trolley - Pro,CAT10,Safari,3675.12,
+P0166,Apple Iphone 15 - Plus,CAT01,Apple,73611.82,52488.9
+P0167,Samsung Galaxy S24 - Classic,CAT01,Samsung,68125.85,46219.12
+P0168,Sony Wh-1000Xm5 - 128Gb,CAT01,Sony,31814.14,21382.14
+P0169,Boat Airdopes 141 - 256Gb,CAT01,Boat,1444.08,
+P0170,Logitech Mx Master 3S - Large,CAT01,Logitech,8986.41,
+P0171,Hp Pavilion 15 - Medium,CAT01,Hp,71342.03,51751.16
+P0172,Lenovo Ideapad Slim 3 - Small,CAT01,Lenovo,49468.8,
+P0173,Dell Inspiron 14 - Pro,CAT01,Dell,57765.33,47489.37
+P0174,Oneplus Nord Ce 4 - Plus,CAT01,Oneplus,26874.76,
+P0175,Jbl Flip 6 - Classic,CAT01,Jbl,12313.64,7508.51
+P0176,Levi'S Men'S 511 Jeans - 128Gb,CAT02,Levi'S,3230.44,1707.39
+P0177,Allen Solly Men'S Shirt - 256Gb,CAT02,Allen Solly,2140.7,1001.53
+P0178,Biba Women'S Kurta - Large,CAT02,Biba,2687.82,1249.86
+P0179,W For Women Palazzo - Medium,CAT02,W,2040.25,952.42
+P0180,H&M Cotton T-Shirt - Small,CAT02,H&M,1229.19,644.9
+P0181,Roadster Casual Jacket - Pro,CAT02,Roadster,2908.95,1466.46
+P0182,Puma Running Shoes - Plus,CAT03,Puma,5103.64,2903.98
+P0183,Nike Air Max - Classic,CAT03,Nike,8885.07,5651.47
+P0184,Adidas Ultraboost - 128Gb,CAT03,Adidas,12585.74,
+P0185,Skechers Go Walk - 256Gb,CAT03,Skechers,6510.85,4519.6
+P0186,Prestige Electric Kettle - Large,CAT04,Prestige,1919.45,
+P0187,Philips Air Fryer - Medium,CAT04,Philips,9370.59,5918.76
+P0188,Borosil Glass Lunch Box - Small,CAT04,Borosil,1279.04,663.88
+P0189,Milton Thermosteel Flask - Pro,CAT04,Milton,1543.42,783.7
+P0190,Wakefit Memory Foam Pillow - Plus,CAT04,Wakefit,976.11,541.72
+P0191,Lakme Face Wash - Classic,CAT05,Lakme,414.15,204.97
+P0192,Maybelline Fit Me Foundation - 128Gb,CAT05,Maybelline,682.5,356.04
+P0193,Mamaearth Face Serum - 256Gb,CAT05,Mamaearth,593.23,302.4
+P0194,The Derma Co Sunscreen - Large,CAT05,The Derma Co,473.6,257.52
+P0195,Nivea Body Lotion - Medium,CAT05,Nivea,373.8,183.83
+P0196,Decathlon Yoga Mat - Small,CAT06,Decathlon,1383.98,709.7
+P0197,Yonex Badminton Racket - Pro,CAT06,Yonex,2436.88,1458.34
+P0198,Cosco Football - Plus,CAT06,Cosco,929.13,506.7
+P0199,Strauss Gym Gloves - Classic,CAT06,Strauss,595.7,302.88
+P0200,Milton Sports Bottle - 128Gb,CAT06,Milton,718.72,358.49
